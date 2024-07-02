@@ -86,6 +86,26 @@ The script prints the evaluation results for each model and plots the feature im
    pip install pandas numpy scikit-learn xgboost matplotlib seaborn
    ```
 
+3. **To run the project, follow these steps**:
+
+   Clone the repository:
+
+   ```sh
+       git clone https://github.com/Md-Mursaleen/AspireNex-Churn-Prediction.git
+   ```
+
+   Install dependencies:
+
+   ```sh
+       pip install pandas scikit-learn
+   ```
+
+   Run the script:
+
+   ```sh
+       python fraud_detection.py
+   ```
+
 ## Output
 
 ![Screenshot1](output1.png)
