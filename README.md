@@ -1,6 +1,6 @@
 # Telco Customer Churn Prediction
 
-This project aims to predict customer churn for a telecommunications company using various machine learning models, including Logistic Regression, Random Forest, and Gradient Boosting (XGBoost). The models are trained and evaluated on the Telco Customer Churn dataset.
+This project aims to predict customer churn for a telecommunications company using various machine learning models, including Logistic Regression, Random Forest and Gradient Boosting (XGBoost). The models are trained and evaluated on the Telco Customer Churn dataset.
 
 ## Dataset
 
@@ -84,3 +84,10 @@ The script prints the evaluation results for each model and plots the feature im
 
    ```sh
    pip install pandas numpy scikit-learn xgboost matplotlib seaborn
+
+## Output
+
+![Screenshot1](output1.png)
+![Screenshot2](confusion_matrix.png) 
+![Screenshot1](features_importance.png)
+![Screenshot2](roc_curve.png)  
