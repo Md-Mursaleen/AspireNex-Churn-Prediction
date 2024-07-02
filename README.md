@@ -84,10 +84,11 @@ The script prints the evaluation results for each model and plots the feature im
 
    ```sh
    pip install pandas numpy scikit-learn xgboost matplotlib seaborn
+   ```
 
 ## Output
 
 ![Screenshot1](output1.png)
-![Screenshot2](confusion_matrix.png) 
+![Screenshot2](confusion_matrix.png)
 ![Screenshot1](features_importance.png)
-![Screenshot2](roc_curve.png)  
+![Screenshot2](roc_curve.png)
