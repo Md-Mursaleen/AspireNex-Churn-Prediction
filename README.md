@@ -108,7 +108,7 @@ The script prints the evaluation results for each model and plots the feature im
 
 ## Output
 
-![Screenshot1](output1.png)
+![Screenshot1](output.png)
 ![Screenshot2](confusion_matrix.png)
 ![Screenshot1](features_importance.png)
 ![Screenshot2](roc_curve.png)
